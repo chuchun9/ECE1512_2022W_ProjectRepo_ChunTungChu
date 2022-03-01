@@ -17,4 +17,9 @@ Here are the explanation of the what it is included in the Supplementary file:
 
     7. Project A_FAQs: A list of Frequently Asked Questions which try to throw light on (almost) all of your questions and concerns which you may have during the course of Project A.
 
+    8. cnn_mnist.ipynb is a Python notebook showing how SHAP method (self-deigned) is applied to explain the mnist-1d dataset.
+
+    9. shap_s1.py is the self-defined SHAP function
+
+    10. hmt_test.py  is a Python file showing how SHAP method (using library shap) is applied to explain the HMT dataset.
 
